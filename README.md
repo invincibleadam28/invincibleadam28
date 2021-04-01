@@ -7,7 +7,7 @@
 - 🔭 I'm The Google Developers Club Lead, Head of Coding Club and Computer Science Society of NIT Jalandhar.
 - 🌱 I’m currently into ComputerVision, NLP and DeepLearning.
 - 👯 I’m looking for opportunities related to Data Science and Machine Learning.
-- 🥅 Goals: Use my knowleadge and experience to help make this World a better place!
+- 🥅 Goals: Use my knowleadge and experience to help, make world a better place!
 - ⚡ Fun fact: I'm really interested in Psychology, Quantum Physics and Time Paradoxes!
 
 
