@@ -39,7 +39,7 @@
 <br>
 <br>
 
-<img align="left" alt="Adam's GitHub Stats" src="https://github-readme-stats.invincibleadam28.vercel.app/api?username=invincibleadam28&show_icons=true&hide_border=true" />
+<img align="left" alt="Adam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=invincibleadam28&show_icons=true&hide_border=true" />
 
 
 
