@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Adamya Mishra (aka Adam) ⚡</h1>
+<h1 align="center">Hi there, I'm Adamya (Adam) ⚡</h1>
 <h3 align="center">Senior AI Engineer, Applied Researcher & Tech Evangelist</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <b>Turning bleeding-edge research into production-ready magic.</b>
 </p>
 
-I am a results-driven AI Engineer thriving at the intersection of high-performance infrastructure, deep learning, and creative model design. From architecting in-house Large Language Models and intelligent Agents at **Microsoft**, to spearheading foundational Galaxy AI generative vision features for flagship **Samsung** devices, and building hyper-scale multi-agent architectures at **Delivery Hero**, my mission is to build, train, and ship AI solutions that fundamentally challenge the status quo. I am equally passionate about bridging the gap between hardware capabilities and human-centric software.
+I am a results-driven AI Engineer thriving at the intersection of high-performance infrastructure, deep learning, and creative model design. From architecting in-house Large Language Models and intelligent Agents at **Microsoft**, to spearheading foundational Galaxy AI generative vision features for flagship **Samsung** devices, and building hyper-scale multi-agent architectures at **Uber**, my mission is to build, train, and ship AI solutions that fundamentally challenge the status quo. I am equally passionate about bridging the gap between hardware capabilities and human-centric software.
 
 ---
 
@@ -27,7 +27,7 @@ I am a results-driven AI Engineer thriving at the intersection of high-performan
 
 ### 🌐 Engineering Feats & Industry Impact
 
-#### 🛵 Applied AI & Autonomous Agents | Delivery Hero
+#### 🛵 Applied AI & Autonomous Agents | Uber (Delivery Hero)
 * **Multi-Agent DL RecSys:** Architected and deployed a state-of-the-art multi-agent recommendation system, successfully driving a projected **$75M+ annualized GMV uplift** and securing a **19% increase in Average Order Value (AOV)** across global markets.
 * **Cognitive Memory Sidecars:** Engineered highly optimized memory sidecars specifically tailored for agent swarms, drastically slashing token consumption by **65%** and reducing Time-To-First-Token (TTFT) by **40%**.
 * **Autonomous SWE Agents:** Designed and implemented autonomous AI agents dedicated to automating complex software engineering workflows, ultimately saving **10,000+ developer hours** annually.
@@ -94,7 +94,7 @@ I am always open to discussing cutting-edge AI research, highly scalable infrast
   <a href="https://www.youtube.com/channel/UCyyR3ePmenTkzQLTyD1Af6Q">
     <img align="left" alt="YouTube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
   </a>
-  <a href="https://instagram.com/invincibleadam28">
+  <a href="https://instagram.com/mishra_adamy">
     <img align="left" alt="Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 </p>
